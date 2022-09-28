@@ -8,7 +8,7 @@ A continuación disponen de la documentación correspondiente con la solución d
 https://www.youtube.com/watch?v=6Aem6bysFS8
 
 # Meet our team
-  Luis Andreu
-  Olimpia Fuster
-  Laura Macías
-  Rafa Pérez
+ -  Luis Andreu
+ -  Olimpia Fuster
+ -  Laura Macías
+ -  Rafa Pérez
